@@ -5,7 +5,7 @@ export default function Home() {
     <div className=''>
       <h1>色で見る性格診断</h1>
       <p>8つの色からあなたの性格を診断します！</p>
-      <Link href="/">
+      <Link href="/question1">
         <button>
           診断を始める
         </button>
